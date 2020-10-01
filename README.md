@@ -1,6 +1,6 @@
-# *CDS talent team handbook / Guide de talent du SNC*
+# *CDS design team handbook / Guide de conception du SNC*
 
-[cds-snc.github.io/talent](https://cds-snc.github.io/talent/)
+[cds-snc.github.io/design](https://cds-snc.github.io/design/)
 
 ## Purpose and audience / Objectif et auditoire
 This handbook is for Canadian Digital Service staff. Some of the links inside it may not be accessible to people outside CDS.
