@@ -13,7 +13,7 @@ en:
   code-and-repo-slug: "/technical/"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "CDS talent handbook"
+  site-name: "Design handbook"
   toc: "Table of contents"
 fr:
   homepage-tag-line: "French tagline"
@@ -30,5 +30,5 @@ fr:
   code-and-repo-slug: "/codes-et-referentiels/"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Guide de talent du SNC"
+  site-name: "Guide de conception du SNC"
   toc: "Table des matières"
